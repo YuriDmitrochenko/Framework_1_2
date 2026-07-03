@@ -50,7 +50,6 @@ This work is distributed under a **CC BY-NC 4.0** (Creative Commons Attributionâ
 
 ## Citation
 
-If you reference this work, please cite it as:
 
 > Dmitrochenko, Y. (2026). *Oncogenesis & Dormant Cells* (Framework 1.2). Israel.
 
