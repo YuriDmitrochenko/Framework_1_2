@@ -54,7 +54,7 @@ If you reference this work, please cite it as:
 
 > Dmitrochenko, Y. (2026). *Oncogenesis & Dormant Cells* (Framework 1.2). Israel.
 
-*DOI: 10.5281/zenodo.21160380, Framework 1.2.)*
+*DOI: 10.5281/zenodo.21160380*
 
 ## Contact
 
