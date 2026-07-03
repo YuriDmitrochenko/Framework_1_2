@@ -43,15 +43,6 @@ Afterword and acknowledgments.
 
 **Suggested reading order:** Front Matter → Preface → Foundational Synthesis → Articles 1–7 in sequence (with the two Companion articles and the Vertical/Horizontal Suppression note read alongside Articles 3–7, as cross-referenced within each) → Closing Essay → Afterword.
 
------
-
-## How to Read This Series
-
-- Each numbered **Article** and **Companion** piece is self-contained: it opens with an Abstract, develops its argument in numbered sections with literature citations, and closes with **Testable Predictions** and an explicit **Limitations** section.
-- Boundary-case articles (Lymphomas, Granulomas, Choriocarcinoma) are written to stress-test the model, not merely illustrate it. Where the model’s transfer to a new tissue is strained rather than supported, this is stated directly in the text rather than smoothed over.
-- Cross-references between articles are given by article number (e.g., “Article 4 §7”) so that individual chapters can be read out of order.
-
------
 
 ## License
 
